@@ -1,0 +1,27 @@
+.inicio{
+  font-weight: 700;
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.preguntas{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+.preguntas h2{
+  text-transform: capitalize;
+  font-size: 28px;
+  color: red;
+}
+
+.preguntas h3{
+  font-size: 24px;
+}
+.preguntas :nth-child(2){
+  font-size: 18px;
+}
